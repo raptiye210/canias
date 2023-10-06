@@ -1,0 +1,10 @@
+/* define a single member */
+MEMBER:
+    STRING STUDENTNAME;
+/* define multiple members */
+MEMBER:
+    STRING FIRSTNAME,
+    STRING LASTNAME,
+    TABLE ITEMLIST,
+    INTEGER XPOSITION
+    MYCLASS MYCLASSREC;

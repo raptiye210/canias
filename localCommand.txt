@@ -1,0 +1,10 @@
+/* define a single local variable */
+LOCAL:
+    STRING STRINGVAR1;
+/* define multiple local variables */
+LOCAL:
+    STRING STRINGVAR1,
+    STRING STRINGVAR2,
+    TABLE TABLEVAR1,
+    INTEGER INTVAR,
+    MYCLASS MYCLASSREC;

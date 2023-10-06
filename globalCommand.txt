@@ -1,0 +1,10 @@
+/* define a single variable */
+GLOBAL:
+    STRING STRINGVAR1;
+/* define multiple variables */
+GLOBAL:
+    STRING STRINGVAR1,
+    STRING STRINGVAR2,
+    TABLE TABLEVAR1,
+    INTEGER INTVAR,
+    MYCLASS MYCLASSREC;

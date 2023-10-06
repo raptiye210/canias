@@ -1,0 +1,10 @@
+/* suppose that this is a dialog method, think on its scope */
+OBJECT:
+    STRING STRINGVAR1;
+/* suppose that this is a class method, think on their scope */
+OBJECT:
+    STRING STRINGVAR1,
+    STRING STRINGVAR2,
+    TABLE TABLEVAR1,
+    INTEGER INTVAR,
+    MYCLASS MYCLASSREC;
